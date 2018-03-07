@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  descricao: MyString
+  grupo_id: 1
+  inativo: false
+  posicao: 1
+
+two:
+  descricao: MyString
+  grupo_id: 1
+  inativo: false
+  posicao: 1

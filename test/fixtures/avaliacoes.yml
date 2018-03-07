@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  data: 2018-03-06
+  aluno_id: 1
+  professor_id: 1
+  obs: MyText
+  situacao: MyString
+
+two:
+  data: 2018-03-06
+  aluno_id: 1
+  professor_id: 1
+  obs: MyText
+  situacao: MyString
